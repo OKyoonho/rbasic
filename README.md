@@ -44,3 +44,18 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+# node.js 설치
+# 설치후
+    * npm install npm -g
+        - 전체에 npm 설정
+    * 폴더로 이동하기 cd rbasic
+    * npm 가상 서버 시작
+        - npm start
+    * 앱빌드
+        - npm run bulid
+    Bundles the app into static files for production.
+    * 앱테스트
+    npm test
+        Starts the test runner.
+    
+
